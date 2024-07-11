@@ -1,4 +1,4 @@
-# Password Generator
+# Python Password Generator
 
 ## Overview
 
@@ -14,12 +14,12 @@ This project is a simple password generator script written in Python. It generat
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/password-generator.git
+    git clone https://github.com/ramilnamazov/PythonPasswordGenerator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd password-generator
+    cd PythonPasswordGenerator
     ```
 
 ## Usage
